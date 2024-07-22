@@ -10,3 +10,6 @@
 [submodule "packages/acebase-core"]
 	path = packages/acebase-core
 	url = https://github.com/ewildee/acebase-core.git
+[submodule "packages/acebase"]
+	path = packages/acebase
+	url = https://github.com/ewildee/acebase.git
