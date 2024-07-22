@@ -10,3 +10,6 @@
 [submodule "packages/acebase-ipc-server"]
 	path = packages/acebase-ipc-server
 	url = https://github.com/appy-one/acebase-ipc-server.git
+[submodule "packages/acebase-core"]
+	path = packages/acebase-core
+	url = https://github.com/ewildee/acebase-core.git
