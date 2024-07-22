@@ -1,0 +1,17 @@
+{
+  "name": "acebase-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "pnpm run -r --if-present --parallel build"
+  },
+  "engines": {
+    "node": "^22"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

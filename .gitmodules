@@ -1,0 +1,15 @@
+[submodule "packages/acebase-server"]
+	path = packages/acebase-server
+	url = https://github.com/appy-one/acebase-server.git
+[submodule "packages/acebase"]
+	path = packages/acebase
+	url = https://github.com/appy-one/acebase.git
+[submodule "packages/acebase-core"]
+	path = packages/acebase-core
+	url = https://github.com/appy-one/acebase-core.git
+[submodule "packages/acebase-client"]
+	path = packages/acebase-client
+	url = https://github.com/appy-one/acebase-client.git
+[submodule "packages/acebase-ipc-server"]
+	path = packages/acebase-ipc-server
+	url = https://github.com/appy-one/acebase-ipc-server.git
